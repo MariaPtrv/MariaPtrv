@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# aboutMe
+
 
 ![Grey White Minimalist Twitter Banner](https://user-images.githubusercontent.com/58878188/175695788-0e0798b1-5736-45c2-826f-8e9a6e2730b1.png)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
