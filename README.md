@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
-<h2>✨Обо мне:✨ </h2>
+<h1>✨Обо мне:✨ </h1>
 <p>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</p>
 <!--<table style="width: 100%; border: 1px solid transparent;">
 <tr>
@@ -37,19 +37,17 @@ Here are some ideas to get you started:
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
   <th></th>
 </table>-->
-<h2>🌱 На данный момент я провожу время за: </h2>
+<h1>🌱 На данный момент я провожу время за: </h1>
 <ul>
   <li>Изучением мобильной разработки под Android (Kotlin)</li>
-  <li>Решением задач на leetcode</li>
   <li>Развитием в фронтенд разработке</li>
   <li>Изучением тестирования мобильных приложений</li>
-  <li>Изучением английского языка</li>
+  <li>Изучением английского языка (B1->B2)</li>
 </ul>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv)](https://github.com/KnlnKS/leetcode-stats)
+<h2>⚡Практикуюсь в решении задач на leetcode:</h2>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                                                                                                                                          
