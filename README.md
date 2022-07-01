@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
 <h2>✨Обо мне:✨ </h2>
-<p>>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</p>
+<p>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</p>
 <!--<table style="width: 100%; border: 1px solid transparent;">
 <tr>
 <th><h3>Обо мне</h3><br>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</th>
@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/>
-</a>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                                                                                                                                          
