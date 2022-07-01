@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
-<table style="width: 100%; border: 1px solid transparent;">
- <--<tr>
+<!--<table style="width: 100%; border: 1px solid transparent;">
+<tr>
 <th><h3>Обо мне</h3><br>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</th>
     <th><h3>About me</h3><br>I am Maria. I graduated from St. Petersburg Polytechnic University with a degree in Applied Informatics in 2022. During my last year of study, I combined my studies at the university with work as a fullstack developer. As part of my educational and work tasks, I tried different things: mobile development, backend, machine learning, Windows Forms application development, frontend.</th>
   </tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
-  <th></th>-->
-</table>
+  <th></th>
+</table>-->
 <h2>🌱 На данный момент я провожу время за: </h2>
 <ul>
   <li>Изучением мобильной разработки под Android (Kotlin)</li>
