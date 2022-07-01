@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
 <h2>⚡Практикуюсь в решении задач на leetcode:</h2>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
