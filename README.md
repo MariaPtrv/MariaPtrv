@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br>
 <table style="width: 100%; border: 1px solid transparent;">
-  <tr>
+ <--<tr>
 <th><h3>Обо мне</h3><br>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</th>
     <th><h3>About me</h3><br>I am Maria. I graduated from St. Petersburg Polytechnic University with a degree in Applied Informatics in 2022. During my last year of study, I combined my studies at the university with work as a fullstack developer. As part of my educational and work tasks, I tried different things: mobile development, backend, machine learning, Windows Forms application development, frontend.</th>
   </tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
-  <th></th>
+  <th></th>-->
 </table>
 <h2>🌱 На данный момент я провожу время за: </h2>
 <ul>
@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/>
+</a>
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                                                                                                                                          
