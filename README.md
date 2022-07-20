@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 </table>-->
 <h1>🌱 На данный момент я провожу время за: </h1>
 <ul>
-  <li>Изучением мобильной разработки под Android (Kotlin)</li>
+  <li>Изучением JS, Vue.js, React.js</li>
   <li>Развитием в фронтенд разработке</li>
+  <li>Улучшением алгоритмической подготовки</li>
   <li>Изучением английского языка (B1->B2)</li>
 </ul>
 
