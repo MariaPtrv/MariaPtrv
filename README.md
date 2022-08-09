@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
-<h2>➤<a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h2>
+<h2>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h2>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
