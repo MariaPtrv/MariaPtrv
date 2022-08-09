@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Grey White Minimalist Twitter Banner](https://user-images.githubusercontent.com/58878188/175695788-0e0798b1-5736-45c2-826f-8e9a6e2730b1.png)
+![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
