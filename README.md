@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <li>Изучением английского языка (B1->B2)</li>
 </ul>
 
+В будущем планирую освоить React.js.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
 <h1>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h1>
 
