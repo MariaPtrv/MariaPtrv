@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 В будущем планирую освоить React.js.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact)](https://github.com/MariaPtrv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compacttheme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/MariaPtrv)
 <h1>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h1>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
