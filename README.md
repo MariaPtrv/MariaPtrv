@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)
+<!--![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)-->
+
+![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188246210-f29bd24c-dce1-41b5-9aa0-6aa6774388da.gif)
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
