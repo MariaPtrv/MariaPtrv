@@ -33,24 +33,19 @@ Here are some ideas to get you started:
 
 <br>
 <h1>➤ Обо мне: </h1>
-<p>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика (бэк: C#, фронт: JS, TS, vue.js). В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</p>
-<!--<table style="width: 100%; border: 1px solid transparent;">
-<tr>
-<th><h3>Обо мне</h3><br>Я Мария. Я закончила Санкт-Петербургский политехнический университет по специальности "прикладная информатика" в 2022 году. В течение последнего года обучения я совмещала учебу в университете с работой в качестве fullstack разработчика. В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.</th>
-    <th><h3>About me</h3><br>I am Maria. I graduated from St. Petersburg Polytechnic University with a degree in Applied Informatics in 2022. During my last year of study, I combined my studies at the university with work as a fullstack developer. As part of my educational and work tasks, I tried different things: mobile development, backend, machine learning, Windows Forms application development, frontend.</th>
-  </tr>
-  <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
-  <th></th>
-</table>-->
-<h1>➤ На данный момент я провожу время за: </h1>
-<ul>
-  <li>Изучением JS, Vue.js, css, html</li>
-  <li>Развитием в фронтенд разработке</li>
-  <li>Улучшением алгоритмической подготовки</li>
-  <li>Изучением английского языка (B1->B2)</li>
-</ul>
+<p>Я Мария. В этом году закончила бакалавриат по специальности "Прикладная информатика"  Санкт-Петербургского политехнического университета. С 4 курса работала в качестве full-stack разработчика (c# + vue.js). 
 
-В будущем планирую освоить React.js.
+В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.
+По окончании университета решила выбрать для себя развитие во фронтенд разработке.
+
+На данный момент продолжаю самостоятельное изучение всего, что связано с фронтенд разработкой. Иногда решаю задачи на Leetcode.
+
+Занимаюсь бегом, переодически посещаю разговорный клуб, люблю читать.</p>
+
+
+<h1>➤ Образование: </h1>
+<p>Санкт-Петербургский политехнический университет Петра Великого</p>
+<p>Прикладная информатика, 2022 </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/MariaPtrv)
@@ -59,13 +54,17 @@ Here are some ideas to get you started:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
-<h1>➤ Образование: </h1>
-Санкт-Петербургский политехнический университет Петра Великого
-Прикладная информатика
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <p></p>
-<br>
 
+<table style="width: 100%; border: 1px solid transparent;">
+<tr>
+  <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
+  <th>Career.habr.com:<br> <a href='https://career.habr.com/byname1'>byname1</a></th>
+  <th>Hh.ru:<br> <a href='https://spb.hh.ru/resume/fa8b39e2ff0b264b520039ed1f4c754f704941'>resume</a></th>
+</tr>
+</table>
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                                                                                                                                          
