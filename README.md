@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <!--![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)-->
 
 
-![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188246800-0aae613a-c0a0-4c14-8c63-87eee21b00c1.gif)
+
+![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188247064-cdf32ce0-1c88-4069-93db-a7f2cc6777d9.gif)
 
 
 
