@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <!--![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)-->
 
-![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188246262-5296dd84-c247-468b-a3ae-90e3f6c2acd9.gif)
+![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188246747-2b6da128-fe3a-43e2-8a2c-9be1cbfade0c.gif)
+
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
