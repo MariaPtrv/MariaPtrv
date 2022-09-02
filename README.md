@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaPtrv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p></p>
-
+<h1>➤ Связаться со мной: </h1>
 <table style="width: 100%; border: 1px solid transparent;">
 <tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
