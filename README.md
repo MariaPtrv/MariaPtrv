@@ -67,4 +67,8 @@ Here are some ideas to get you started:
 </table>
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
-                                                                                                                                         
+                    
+                                                                                                                    
+<h1>➤ Резюме: </h1> 
+
+[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf)
