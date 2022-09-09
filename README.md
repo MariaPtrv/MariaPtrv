@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 <p>Санкт-Петербургский политехнический университет Петра Великого</p>
 <p>Прикладная информатика, 2022 </p>
 
+<h1>➤ Резюме: </h1> 
+
+[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)](https://github.com/MariaPtrv)
 <h1>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h1>
@@ -69,6 +72,4 @@ Here are some ideas to get you started:
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                     
                                                                                                                     
-<h1>➤ Резюме: </h1> 
 
-[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf)
