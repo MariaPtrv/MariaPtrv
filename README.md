@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <p>Санкт-Петербургский политехнический университет Петра Великого</p>
 <p>Прикладная информатика, 2022 </p>
 
-<h1>➤ Резюме: </h1> 
+<!-- <h1>➤ Резюме: </h1> 
 
-[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf)
+[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
 
