@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
   <th>Career.habr.com:<br> <a href='https://career.habr.com/mariaptrv'>mariaptrv</a></th>
-  <th>Hh.ru:<br> <a href='https://spb.hh.ru/resume/fa8b39e2ff0b264b520039ed1f4c754f704941'>resume</a></th>
+<!--   <th>Hh.ru:<br> <a href='https://spb.hh.ru/resume/fa8b39e2ff0b264b520039ed1f4c754f704941'>resume</a></th> -->
 </tr>
 </table>
 
