@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!--![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/183631022-a0515d29-2aec-4b4a-b830-e6d2936572db.gif)-->
 
 
-
-![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188247064-cdf32ce0-1c88-4069-93db-a7f2cc6777d9.gif)
+<!-- 
+![Hi, I'm Maria frontend developer](https://user-images.githubusercontent.com/58878188/188247064-cdf32ce0-1c88-4069-93db-a7f2cc6777d9.gif) -->
 
 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<br>
+<!-- <br>
 <h1>➤ Обо мне: </h1>
 <p>Я Мария. В этом году закончила бакалавриат по специальности "Прикладная информатика"  Санкт-Петербургского политехнического университета. С 4 курса работала в качестве frontend разработчика (vue.js). 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <h1>➤ Образование: </h1>
 <p>Санкт-Петербургский политехнический университет Петра Великого</p>
-<p>Прикладная информатика, 2022 </p>
+<p>Прикладная информатика, 2022 </p> -->
 
 <!-- <h1>➤ Резюме: </h1> 
 
