@@ -33,21 +33,29 @@ Here are some ideas to get you started:
 
 <!-- <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
+<h1>Hi!✌️</h1>
 
-<h1>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h1>
+<p>I'm Maria. I'm a frontend developer with more than 1 year of experience.</p>
+<p>There are no commercial projects here, only educational and pet projects. </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-<p></p>
-<h1>➤ Связаться со мной: </h1>
+<h1>📞 Contact with me: </h1>
 <table style="width: 100%; border: 1px solid transparent;">
 <tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
   <th>Career.habr.com:<br> <a href='https://career.habr.com/mariaptrv'>mariaptrv</a></th>
-<!--   <th>Hh.ru:<br> <a href='https://spb.hh.ru/resume/fa8b39e2ff0b264b520039ed1f4c754f704941'>resume</a></th> -->
 </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaPtrv&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<h1>🛠<a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Practicing</a> in solving problems on leetcode:</h1>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=light)](https://github.com/KnlnKS/leetcode-stats)
+
+<p></p>
+
 
 ![anime-funny](https://user-images.githubusercontent.com/58878188/175789265-3b1de2d1-0a95-4f3d-b906-58ff17353cd9.gif)
                     
