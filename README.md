@@ -32,30 +32,12 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- <br>
-<h1>➤ Обо мне: </h1>
-<p>Я Мария. В этом году закончила бакалавриат по специальности "Прикладная информатика"  Санкт-Петербургского политехнического университета. С 4 курса работала в качестве frontend разработчика (vue.js). 
-
-В рамках учебных и рабочих задач попробовала разное: мобильная разработка, бэкенд, машинное обучение, разработка приложений Windows Forms, фронтенд.
-
-Занимаюсь бегом, переодически посещаю разговорный клуб, люблю читать.</p>
-
-
-<h1>➤ Образование: </h1>
-<p>Санкт-Петербургский политехнический университет Петра Великого</p>
-<p>Прикладная информатика, 2022 </p> -->
-
-<!-- <h1>➤ Резюме: </h1> 
-
-[Maria Petrova, frontend developer.pdf](https://github.com/MariaPtrv/MariaPtrv/files/9535221/Maria.Petrova.frontend.developer.pdf) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
 
 <h1>➤ <a href='https://github.com/MariaPtrv/leetcode_Kotlin'>Практикуюсь</a> в решении задач на leetcode:</h1>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaPtrv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p></p>
 <h1>➤ Связаться со мной: </h1>
