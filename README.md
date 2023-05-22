@@ -7,7 +7,7 @@
 
 <h1>Hi!✌️</h1>
 
-<p>I'm Maria. I'm a frontend developer with more than 1 year of experience.</p>
+<p>I'm Maria. I'm a frontend developer.</p>
 <p>There are no commercial projects here, only educational and pet projects. </p>
 <p>I use: </p>
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/typescript-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="Typescript" align=left width=19 height=19></picture>TypeScript </p>
