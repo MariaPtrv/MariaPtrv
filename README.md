@@ -9,12 +9,6 @@
 
 <p>I'm Maria. I'm a frontend developer.</p>
 <p>There are no commercial projects here, only educational and pet projects. </p>
-<p>I use: </p>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/typescript-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="Typescript" align=left width=19 height=19></picture>TypeScript </p>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/vuedotjs-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vuedotjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vuedotjs.svg" alt="Vue" align=left width=24 height=24></picture> Vue.js + Vuex </p>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/react-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" align=left width=24 height=24></picture>React + Redux (learning)</p>
-
-
 
 <h1>📞 Contact with me: </h1>
 <table style="width: 100%; border: 1px solid transparent;">
