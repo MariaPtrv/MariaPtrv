@@ -6,10 +6,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <h1>Hi!✌️</h1>
-
-<p>I'm Maria. I'm a frontend developer.</p>
-<p>There are no commercial projects here, only educational and pet projects. </p>
-
 <h1>📞 Contact with me: </h1>
 <table style="width: 100%; border: 1px solid transparent;">
 <tr>
