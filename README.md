@@ -10,7 +10,6 @@
 <table style="width: 100%; border: 1px solid transparent;">
 <tr>
   <th>Telegram:<br> <a href='https://t.me/MariaByName'>@MariaByName</a></th>
-  <th>Career.habr.com:<br> <a href='https://career.habr.com/mariaptrv'>mariaptrv</a></th>
 </tr>
 </table>
 
