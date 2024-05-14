@@ -23,18 +23,19 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaPtrv&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<div>
-  
-  ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
-  
-  ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
-</div>
+![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
+
 <h1>🛠<a href='https://github.com/MariaPtrv/leetcode_'>Practicing</a> in solving problems on leetcode:</h1>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=light)](https://github.com/KnlnKS/leetcode-stats)
 
 <p></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 [![](https://visitcount.itsvg.in/api?id=gbsk-an&icon=0&color=12)](https://visitcount.itsvg.in)
 
