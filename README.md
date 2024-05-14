@@ -28,5 +28,5 @@
 ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
 
 
-![](https://visitcount.itsvg.in/api?id=gbsk-an&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gbsk-an&icon=0&color=12)](https://visitcount.itsvg.in)
 
