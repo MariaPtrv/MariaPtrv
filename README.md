@@ -24,7 +24,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaPtrv&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div>
+  
   ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
+  
   ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
 </div>
 <h1>🛠<a href='https://github.com/MariaPtrv/leetcode_'>Practicing</a> in solving problems on leetcode:</h1>
