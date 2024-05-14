@@ -17,7 +17,7 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
 
