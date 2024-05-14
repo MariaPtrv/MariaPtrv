@@ -23,7 +23,7 @@
 
 <h1>🛠<a href='https://github.com/MariaPtrv/leetcode_'>Practicing</a> in solving problems on leetcode.</h1>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=light)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
 
