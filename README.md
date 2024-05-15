@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=8797F7&multiline=true&repeat=false&random=false&width=820&height=150&lines=Hi!+%F0%9F%99%82;I'm+a+software+engineer.+;I+have+experience+with+React%2C+Vue.js%2C+TS%2C+JS.;Now+I'm+learning+Golang.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=8797F7&multiline=true&repeat=false&random=false&width=820&height=150&lines=Hi!+%F0%9F%99%82;I'm+a+software+engineer.+;I+have+experience+with+React%2C+Vue.js%2C+TS%2C+JS.;Now+I'm+learning+Golang." alt="Typing SVG" /></a>
 
 <h1 align="left">Languages and Tools:</h1>
 
