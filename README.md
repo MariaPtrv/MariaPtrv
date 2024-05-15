@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
 
-<h1>🛠<a href='https://github.com/MariaPtrv/leetcode_'>Practicing</a> in solving problems on leetcode.</h1>
+<h1>🛠Practicing in solving problems on leetcode.</h1>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
