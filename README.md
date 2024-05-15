@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=9882F7&multiline=true&repeat=false&random=false&width=820&height=150&lines=Hi!+%F0%9F%99%82;I'm+a+software+engineer.+;I+have+experience+with+React%2C+Vue.js%2C+TS%2C+JS.;Now+I'm+learning+Golang.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=8797F7&multiline=true&repeat=false&random=false&width=820&height=150&lines=Hi!+%F0%9F%99%82;I'm+a+software+engineer.+;I+have+experience+with+React%2C+Vue.js%2C+TS%2C+JS.;Now+I'm+learning+Golang.)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
