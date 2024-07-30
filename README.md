@@ -16,6 +16,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+<h1 align="left">Актуальные репозитории:</h1>
+- Решение leetcode задач на изучаемых языках (на данный момент, Golang)
+- Изучаю Go и пишу tg бота
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
@@ -23,7 +26,7 @@
 
 <h1>🛠Practicing in solving problems on leetcode.</h1>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MariaPtrv&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
 
