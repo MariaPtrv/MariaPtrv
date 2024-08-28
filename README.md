@@ -17,8 +17,15 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <h1 align="left">Актуальные репозитории:</h1>
-- Решение leetcode задач на изучаемых языках (на данный момент, Golang)
-- Изучаю Go и пишу tg бота
+<ul>
+  <ol>
+    Решение leetcode задач на изучаемых языках (на данный момент, Golang)
+  </ol>
+    <ol>
+ Изучаю Go и пишу tg бота
+  </ol>
+</ul>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
