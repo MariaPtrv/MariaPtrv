@@ -17,14 +17,9 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <h1 align="left">Актуальные репозитории:</h1>
-<ul>
-  <ol>
-    Решение leetcode задач на изучаемых языках (на данный момент, Golang)
-  </ol>
-    <ol>
- Изучаю Go и пишу tg бота
-  </ol>
-</ul>
+* Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_) на изучаемых языках (на данный момент, Golang)
+* Простой [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
+* [Хранилище упраженений](https://github.com/MariaPtrv/golang-concurrency/tree/one_channel) для изучения concurrency в Go (в процессе)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
