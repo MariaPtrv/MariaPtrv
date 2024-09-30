@@ -16,7 +16,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-## Актуальные репозитории:
+## 🛠 Актуальные репозитории:
 - Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_) на изучаемых языках (на данный момент, Golang)
 - Простой [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
 - [Хранилище упраженений](https://github.com/MariaPtrv/golang-concurrency/tree/one_channel) для изучения concurrency в Go (в процессе)
@@ -25,9 +25,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
-
-<h1>🛠Practicing in solving problems on leetcode.</h1>
-
 
 
 ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
