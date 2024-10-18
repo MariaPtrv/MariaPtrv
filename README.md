@@ -18,6 +18,11 @@
 
 ## 🛠 Актуальные репозитории:
 - Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_) на изучаемых языках (на данный момент, Golang)
+
+   <a href="https://leetcode.com/MariaPtrv#gh-dark-mode-only">
+      <img src="https://leetcard.jacoblin.cool/MariaPtrv?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+  </a>
+
 - Мой первый законченный tg бот [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
 - [Хранилище упраженений](https://github.com/MariaPtrv/GolangConcurrency) для изучения concurrency в Go 
 - [Участие в хакатоне Островка](https://github.com/ostrovok-hackathon-2024/TheBits)
@@ -26,6 +31,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPtrv&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/MariaPtrv)
+
 
 
 ![typing](https://github.com/MariaPtrv/MariaPtrv/assets/58878188/fe36e593-2af3-4bdb-8fdd-8fd5327a2c4e)
