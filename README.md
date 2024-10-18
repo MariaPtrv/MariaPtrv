@@ -19,7 +19,7 @@
 ## 🛠 Актуальные репозитории:
 - Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_) на изучаемых языках (на данный момент, Golang)
 - Мой первый законченный tg бот [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
-- [Хранилище упраженений](https://github.com/MariaPtrv/golang-concurrency/tree/one_channel) для изучения concurrency в Go (в процессе)
+- [Хранилище упраженений](https://github.com/MariaPtrv/GolangConcurrency) для изучения concurrency в Go 
 - [Участие в хакатоне Островка](https://github.com/ostrovok-hackathon-2024/TheBits)
 
 
