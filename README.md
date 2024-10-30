@@ -23,7 +23,7 @@
       <img src="https://leetcard.jacoblin.cool/MariaPtrv?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
   </a>
 
-- Мой первый законченный tg бот [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
+- tg бот [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
 - [Хранилище упраженений](https://github.com/MariaPtrv/GolangConcurrency) для изучения concurrency в Go 
 - [Участие в хакатоне Островка](https://github.com/ostrovok-hackathon-2024/TheBits)
 
