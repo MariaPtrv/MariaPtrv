@@ -17,15 +17,16 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## 🛠 Актуальные репозитории:
-- Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_) на изучаемых языках (на данный момент, Golang)
+- [Приложение для создания и применения промокодов](https://github.com/MariaPtrv/promocodes)
+- [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
+- [Хранилище упраженений](https://github.com/MariaPtrv/GolangConcurrency) для изучения concurrency в Go 
+- [Участие в хакатоне Островка](https://github.com/ostrovok-hackathon-2024/TheBits)
+- Решение [leetcode задач](https://github.com/MariaPtrv/Leetcode_)
 
    <a href="https://leetcode.com/MariaPtrv#gh-dark-mode-only">
       <img src="https://leetcard.jacoblin.cool/MariaPtrv?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
   </a>
 
-- tg бот [tg-bot](https://github.com/MariaPtrv/HB-bot) с квизом и отправкой медиа
-- [Хранилище упраженений](https://github.com/MariaPtrv/GolangConcurrency) для изучения concurrency в Go 
-- [Участие в хакатоне Островка](https://github.com/ostrovok-hackathon-2024/TheBits)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaPtrv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
